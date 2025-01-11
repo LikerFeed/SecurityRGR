@@ -142,6 +142,6 @@ client.on("data", (data) => {
 });
 
 process.on("SIGINT", () => {
-  console.log("\nStopping the client...");
+  console.log("\nКлієнта відключено від сервера");
   process.exit();
 });
