@@ -1,0 +1,25 @@
+{
+  "name": "securityrgr",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LikerFeed/SecurityRGR#readme",
+  "bugs": {
+    "url": "https://github.com/LikerFeed/SecurityRGR/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LikerFeed/SecurityRGR.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "globals": "^15.14.0"
+  }
+}
